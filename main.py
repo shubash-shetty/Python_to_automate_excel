@@ -13,4 +13,4 @@ workbook.save(filename='mainexcel.xlsx')
 x1 = Dispatch("Excel.Application")
 x1.Visible = True
 
-wb = x1.Workbooks.open(r'C:\Users\smeduthy\OneDrive - Cisco\Desktop\mainexcel.xlsx')
+wb = x1.Workbooks.open(r'C:\Users\smeduthy\PycharmProjects\Python_to_automate_excel\mainexcel.xlsx')
